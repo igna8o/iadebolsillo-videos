@@ -1,0 +1,20 @@
+Mientras yo tomaba mate, una IA comparó la freidora en 3 tiendas. 🧉
+
+Eso es un agente: no te explica cómo hacer las cosas, las hace.
+
+Le pedí: "Comparame la freidora Philips NA120 en Mercado Libre, Tienda Inglesa y Divino".
+✅ Abrió las tres y leyó cada precio
+✅ Una estaba en pesos: la pasó a dólares
+✅ Diferencia entre la más barata y la más cara: US$ 22
+
+El chat te da la receta. El agente te cocina.
+
+📍 En Claude se llama Claude en Chrome (extensión de Chrome, planes pagos).
+🛑 Comprar o pagar no puede: eso lo hacés vos.
+⚠️ Usalo en páginas de confianza y no en tu banco ni con datos sensibles.
+
+Prueba real del 11/11/2026 en Uruguay. En tu país cambian las tiendas.
+
+📌 Guardalo en el bolsillo.
+
+#IAdeBolsillo #AgentesDeIA #Claude #ClaudeAI #InteligenciaArtificial #TipsIA #IAenEspañol #Productividad

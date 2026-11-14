@@ -1,0 +1,5 @@
+[
+  { "video": "2026-11-13-agente-de-ia.mp4", "caption": "captions/2026-11-13-agente-de-ia.txt", "portada_ms": 1000, "hora": "2026-11-14T13:00:00-03:00", "estado": "pendiente" },
+  { "video": "2026-11-17-modo-fantasma.mp4", "caption": "captions/2026-11-17-modo-fantasma.txt", "portada_ms": 1900, "hora": "2026-11-14T16:00:00-03:00", "estado": "pendiente" },
+  { "video": "2026-11-16-cuenta-del-asado.mp4", "caption": "captions/2026-11-16-cuenta-del-asado.txt", "portada_ms": 2000, "hora": "2026-11-14T20:00:00-03:00", "estado": "pendiente" }
+]
