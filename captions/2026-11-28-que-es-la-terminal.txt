@@ -1,0 +1,18 @@
+"Abrí la terminal y pegá esto"… y vos mirando una pantalla negra. 🖤
+
+La terminal es una ventana donde le escribís órdenes a la compu, en vez de hacer clic.
+Clic: señalás. Terminal: lo pedís con palabras.
+
+✅ Prueba real: con una sola línea creé las 12 carpetas de los meses en 0,17 segundos.
+🤖 Claude Code vive ahí: vos le escribís en español y él escribe las órdenes (desde el plan Pro).
+
+Cómo se abre:
+🪟 Windows: tecla Windows + X → Terminal
+🍎 Mac: buscá "Terminal"
+
+¿No te animás? Claude Code también está en la app de escritorio, sin pantalla negra.
+⚠️ Pegá solo comandos de páginas oficiales.
+
+📌 Guardalo en el bolsillo.
+
+#IAdeBolsillo #DiccionarioDeBolsillo #ClaudeCode #Terminal #Claude #InteligenciaArtificial #TipsIA #IAenEspañol

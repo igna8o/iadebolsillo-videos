@@ -49,7 +49,16 @@
     "caption": "captions/2026-11-25-batalla-3d.txt",
     "portada_ms": 3400,
     "hora": "2026-11-16T12:00:00-03:00",
+    "estado": "publicado",
+    "link": "https://www.instagram.com/reel/Dfz1fFame8D/",
+    "publicado": "2026-11-16T16:57:18+0000"
+  },
+  {
+    "video": "2026-11-28-que-es-la-terminal.mp4",
+    "caption": "captions/2026-11-28-que-es-la-terminal.txt",
+    "portada_ms": 1650,
+    "hora": "2026-11-16T18:00:00-03:00",
     "estado": "manual",
-    "nota": "se publica a mano el 16/11 a las 12:00"
+    "nota": "se publica a mano el 16/11 a las 18:00"
   }
 ]
