@@ -1,0 +1,14 @@
+¿Salió un modelo nuevo y la tabla dice que gana en todo? 📊 Antes de cambiarte, hacete 4 preguntas:
+
+1️⃣ ¿Quién lo midió? Algunas pruebas las corre la misma empresa ("run internally").
+2️⃣ ¿Qué mide? Cada fila es un examen distinto: programar, ciencia, robots… pocas son de tu día a día. En tareas de negocio, por ejemplo, ganó Gemini.
+3️⃣ ¿Con qué esfuerzo? Los números de la tabla son con el esfuerzo máximo. La app de Claude viene en "Medio".
+4️⃣ ¿Cuánto gasta? En nuestra prueba, el mismo pedido gastó 31 % de la sesión con Fable 5.2, contra 11 % con Opus y 9 % con Sonnet.
+
+Hasta Anthropic lo dice en el anuncio: para casi todo, empezá por Opus 5.5.
+
+Datos del anuncio oficial de Fable 5.2 (9/11/2026) y de nuestra prueba del 10/11 (plan Pro).
+
+📌 Guardalo en el bolsillo.
+
+#IAdeBolsillo #Claude #ClaudeAI #Fable #InteligenciaArtificial #TipsIA #IAenEspañol
