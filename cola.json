@@ -34,5 +34,12 @@
     "estado": "publicado",
     "link": "https://www.instagram.com/reel/DfyLaZ6ivd2/",
     "publicado": "2026-11-16T01:30:19+0000"
+  },
+  {
+    "video": "2026-11-23-pregunta-a-tus-notas.mp4",
+    "caption": "captions/2026-11-23-pregunta-a-tus-notas.txt",
+    "portada_ms": 1000,
+    "hora": "2026-11-16T08:00:00-03:00",
+    "estado": "pendiente"
   }
 ]

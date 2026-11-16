@@ -1,0 +1,21 @@
+Tu segundo cerebro no sirve si no le podés preguntar. 🧠
+
+Obsidian es una app gratis para guardar todas tus notas y conectarlas como un mapa. El problema: cuando necesitás algo, no te acordás dónde lo anotaste.
+
+Con Cowork, Claude abre esa carpeta y le preguntás como a una persona:
+📞 "¿Cuál era el teléfono del plomero?" → te lo da y te dice de qué nota lo sacó.
+✅ "Haceme una lista de lo que tengo pendiente" → juntó 11 notas y armó 12 pendientes ordenados por urgencia (hasta me avisó que me quedaban 3 días para reservar).
+
+Cómo:
+1️⃣ Tus notas de Obsidian son una carpeta en tu compu.
+2️⃣ En la app de escritorio de Claude, abrí Cowork y conectá esa carpeta.
+3️⃣ Preguntale lo que necesites.
+
+💳 Cowork viene en los planes pagos y necesita la app de escritorio abierta para leer tu carpeta.
+🔒 No conectes carpetas con claves ni datos sensibles.
+
+Prueba real del 12/11/2026 con una bóveda de ejemplo (las notas son inventadas).
+
+📌 Guardalo en el bolsillo.
+
+#IAdeBolsillo #Obsidian #SegundoCerebro #Claude #ClaudeCowork #Productividad #TipsIA #IAenEspañol
