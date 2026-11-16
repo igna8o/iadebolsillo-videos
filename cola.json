@@ -40,6 +40,7 @@
     "caption": "captions/2026-11-23-pregunta-a-tus-notas.txt",
     "portada_ms": 1000,
     "hora": "2026-11-16T08:00:00-03:00",
-    "estado": "pendiente"
+    "estado": "manual",
+    "nota": "se publica a mano desde la compu el 16/11 a las 8:00"
   }
 ]
