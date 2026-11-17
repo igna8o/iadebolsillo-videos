@@ -76,8 +76,9 @@
     "caption": "captions/2026-11-27-que-es-html.txt",
     "portada_ms": 2600,
     "hora": "2026-11-17T12:00:00-03:00",
-    "estado": "manual",
-    "nota": "lo publica la tarea programada publicar-reel-html-17-11 (el publicador de Actions no anda)"
+    "estado": "publicado",
+    "link": "https://www.instagram.com/reel/Df2NM2hDw5P/",
+    "publicado": "2026-11-17T15:02:52+0000"
   },
   {
     "video": "2026-11-26-tokens.mp4",
