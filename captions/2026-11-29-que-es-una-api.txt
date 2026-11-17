@@ -1,0 +1,11 @@
+"Pegá tu API key acá"… ¿y eso qué es? 🔑
+
+Una API es un mozo entre dos programas: lleva el pedido a la cocina y te trae lo que pediste. Muchas apps "con IA" no tienen IA propia: le piden a una cocina como la de Claude, por la API.
+
+Esa cocina no atiende sin llave (lo probamos: sin API key, la API de Claude responde con un error). La API key dice quién pide y a quién se le cobra. Por eso no se comparte nunca, ni en un chat ni en una captura.
+
+La de Claude se crea en la Consola (platform.claude.com) y se muestra una sola vez. La API se paga aparte, según lo que uses: el plan Pro no la incluye; Max y Ultra traen crédito todos los meses.
+
+Guardalo en el bolsillo.
+
+#inteligenciaartificial #claude #api #apikey #claudecode #automatizacion #iaenespañol #tecnologia #diccionariodebolsillo
