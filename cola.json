@@ -94,7 +94,8 @@
     "caption": "captions/2026-11-20-vacaciones-en-pizarra.txt",
     "portada_ms": 2000,
     "hora": "2026-11-17T18:00:00-03:00",
-    "estado": "manual",
-    "nota": "lo publica la tarea programada publicar-reel-vacaciones-17-11 (el publicador de Actions no anda)"
+    "estado": "publicado",
+    "link": "https://www.instagram.com/reel/Df22WmXiWaT/",
+    "publicado": "2026-11-17T21:02:16+0000"
   }
 ]
