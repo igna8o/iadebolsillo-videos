@@ -85,8 +85,9 @@
     "caption": "captions/2026-11-26-tokens.txt",
     "portada_ms": 1900,
     "hora": "2026-11-17T15:00:00-03:00",
-    "estado": "manual",
-    "nota": "lo publica la tarea programada publicar-reel-tokens-17-11 (el publicador de Actions no anda)"
+    "estado": "publicado",
+    "link": "https://www.instagram.com/reel/Df2hyAAD4mp/",
+    "publicado": "2026-11-17T18:02:30+0000"
   },
   {
     "video": "2026-11-20-vacaciones-en-pizarra.mp4",
