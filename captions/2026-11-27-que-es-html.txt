@@ -1,0 +1,15 @@
+"Te armé un archivo HTML"… ¿y eso qué es? 🤔
+
+Es lo que te devuelve Claude (o ChatGPT) cuando le pedís una página, un juego o hasta un carpincho en 3D.
+
+🦴 HTML: el esqueleto. Un archivo de texto que le dice a la compu qué va en cada lugar.
+👕 CSS: la ropa. Colores, letras, tamaños.
+🏃 JavaScript: lo que hace que se mueva.
+
+Lo abrís con doble clic y anda en cualquier navegador, sin instalar nada. (El carpincho del video necesita internet porque carga una librería 3D.)
+
+El código que ves es el real: 297 líneas para un carpincho en bicicleta.
+
+📌 Guardalo en el bolsillo.
+
+#IAdeBolsillo #HTML #Claude #ChatGPT #AprendeIA #DiccionarioDeBolsillo #TipsIA #IAenEspañol

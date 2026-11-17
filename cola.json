@@ -70,5 +70,13 @@
     "estado": "publicado",
     "link": "https://www.instagram.com/reel/Df1xp_UAXuJ/",
     "publicado": "2026-11-17T11:01:59+0000"
+  },
+  {
+    "video": "2026-11-27-que-es-html.mp4",
+    "caption": "captions/2026-11-27-que-es-html.txt",
+    "portada_ms": 2600,
+    "hora": "2026-11-17T12:00:00-03:00",
+    "estado": "manual",
+    "nota": "lo publica la tarea programada publicar-reel-html-17-11 (el publicador de Actions no anda)"
   }
 ]
