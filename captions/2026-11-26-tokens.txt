@@ -1,0 +1,13 @@
+Claude no lee palabras: lee pedacitos. Se llaman tokens. 🧩
+
+🔹 Token: un pedacito de texto. La IA no lee palabras: corta todo en pedacitos. Tu mensaje, lo que te contesta y el PDF que subís: todo se cuenta en tokens.
+🔹 Ventana de contexto: la "mesa" donde Claude pone esos pedacitos para pensar. En Sonnet 5.5 y Opus 5.5 (planes pagos) entra un millón.
+🔹 Cuando se llena, Claude resume lo viejo para hacer lugar… y eso gasta más de tu límite.
+
+💡 Truco: tema nuevo, chat nuevo.
+
+Datos de la ayuda oficial de Claude (16/11/2026). Los cortes del video son de ejemplo: cada modelo corta distinto.
+
+📌 Guardalo en el bolsillo.
+
+#IAdeBolsillo #Claude #ClaudeAI #Tokens #InteligenciaArtificial #DiccionarioDeBolsillo #TipsIA #IAenEspañol

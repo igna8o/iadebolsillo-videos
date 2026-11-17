@@ -78,5 +78,21 @@
     "hora": "2026-11-17T12:00:00-03:00",
     "estado": "manual",
     "nota": "lo publica la tarea programada publicar-reel-html-17-11 (el publicador de Actions no anda)"
+  },
+  {
+    "video": "2026-11-26-tokens.mp4",
+    "caption": "captions/2026-11-26-tokens.txt",
+    "portada_ms": 1900,
+    "hora": "2026-11-17T15:00:00-03:00",
+    "estado": "manual",
+    "nota": "lo publica la tarea programada publicar-reel-tokens-17-11 (el publicador de Actions no anda)"
+  },
+  {
+    "video": "2026-11-20-vacaciones-en-pizarra.mp4",
+    "caption": "captions/2026-11-20-vacaciones-en-pizarra.txt",
+    "portada_ms": 2000,
+    "hora": "2026-11-17T18:00:00-03:00",
+    "estado": "manual",
+    "nota": "lo publica la tarea programada publicar-reel-vacaciones-17-11 (el publicador de Actions no anda)"
   }
 ]
