@@ -1,119 +1,126 @@
 [
-  {
-    "video": "2026-11-13-agente-de-ia.mp4",
-    "caption": "captions/2026-11-13-agente-de-ia.txt",
-    "portada_ms": 1000,
-    "hora": "2026-11-14T13:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/DfuldP4EUjt/",
-    "publicado": "2026-11-14T16:00:43+0000"
-  },
-  {
-    "video": "2026-11-17-modo-fantasma.mp4",
-    "caption": "captions/2026-11-17-modo-fantasma.txt",
-    "portada_ms": 1900,
-    "hora": "2026-11-14T16:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Dfu6DXsGQc8/",
-    "publicado": "2026-11-14T19:00:37+0000"
-  },
-  {
-    "video": "2026-11-16-cuenta-del-asado.mp4",
-    "caption": "captions/2026-11-16-cuenta-del-asado.txt",
-    "portada_ms": 2000,
-    "hora": "2026-11-14T20:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/DfvtR9EiS1K/",
-    "publicado": "2026-11-15T02:28:19+0000"
-  },
-  {
-    "video": "2026-11-21-leer-benchmarks.mp4",
-    "caption": "captions/2026-11-21-leer-benchmarks.txt",
-    "portada_ms": 1000,
-    "hora": "2026-11-15T22:30:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/DfyLaZ6ivd2/",
-    "publicado": "2026-11-16T01:30:19+0000"
-  },
-  {
-    "video": "2026-11-23-pregunta-a-tus-notas.mp4",
-    "caption": "captions/2026-11-23-pregunta-a-tus-notas.txt",
-    "portada_ms": 1000,
-    "hora": "2026-11-16T08:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/DfzNlkYitkT/",
-    "publicado": "2026-11-16T11:08:42+0000"
-  },
-  {
-    "video": "2026-11-25-batalla-3d.mp4",
-    "caption": "captions/2026-11-25-batalla-3d.txt",
-    "portada_ms": 3400,
-    "hora": "2026-11-16T12:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Dfz1fFame8D/",
-    "publicado": "2026-11-16T16:57:18+0000"
-  },
-  {
-    "video": "2026-11-28-que-es-la-terminal.mp4",
-    "caption": "captions/2026-11-28-que-es-la-terminal.txt",
-    "portada_ms": 1650,
-    "hora": "2026-11-16T18:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Df0cHASmNGJ/",
-    "publicado": "2026-11-16T22:34:40+0000"
-  },
-  {
-    "video": "2026-11-29-que-es-una-api.mp4",
-    "caption": "captions/2026-11-29-que-es-una-api.txt",
-    "portada_ms": 1100,
-    "hora": "2026-11-17T08:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Df1xp_UAXuJ/",
-    "publicado": "2026-11-17T11:01:59+0000"
-  },
-  {
-    "video": "2026-11-27-que-es-html.mp4",
-    "caption": "captions/2026-11-27-que-es-html.txt",
-    "portada_ms": 2600,
-    "hora": "2026-11-17T12:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Df2NM2hDw5P/",
-    "publicado": "2026-11-17T15:02:52+0000"
-  },
-  {
-    "video": "2026-11-26-tokens.mp4",
-    "caption": "captions/2026-11-26-tokens.txt",
-    "portada_ms": 1900,
-    "hora": "2026-11-17T15:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Df2hyAAD4mp/",
-    "publicado": "2026-11-17T18:02:30+0000"
-  },
-  {
-    "video": "2026-11-20-vacaciones-en-pizarra.mp4",
-    "caption": "captions/2026-11-20-vacaciones-en-pizarra.txt",
-    "portada_ms": 2000,
-    "hora": "2026-11-17T18:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Df22WmXiWaT/",
-    "publicado": "2026-11-17T21:02:16+0000"
-  },
-  {
-    "video": "2026-11-18-la-ia-alucina.mp4",
-    "caption": "captions/2026-11-18-la-ia-alucina.txt",
-    "portada_ms": 1200,
-    "hora": "2026-11-18T08:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Df4XGitAkqC/",
-    "publicado": "2026-11-18T11:08:04+0000"
-  },
-  {
-    "video": "2026-11-18-que-es-mcp.mp4",
-    "caption": "captions/2026-11-18-que-es-mcp.txt",
-    "portada_ms": 1000,
-    "hora": "2026-11-18T12:00:00-03:00",
-    "estado": "publicado",
-    "link": "https://www.instagram.com/reel/Df4yY1bDS3q/",
-    "publicado": "2026-11-18T15:06:27+0000"
-  }
+ {
+  "video": "2026-11-13-agente-de-ia.mp4",
+  "caption": "captions/2026-11-13-agente-de-ia.txt",
+  "portada_ms": 1000,
+  "hora": "2026-11-14T13:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/DfuldP4EUjt/",
+  "publicado": "2026-11-14T16:00:43+0000"
+ },
+ {
+  "video": "2026-11-17-modo-fantasma.mp4",
+  "caption": "captions/2026-11-17-modo-fantasma.txt",
+  "portada_ms": 1900,
+  "hora": "2026-11-14T16:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Dfu6DXsGQc8/",
+  "publicado": "2026-11-14T19:00:37+0000"
+ },
+ {
+  "video": "2026-11-16-cuenta-del-asado.mp4",
+  "caption": "captions/2026-11-16-cuenta-del-asado.txt",
+  "portada_ms": 2000,
+  "hora": "2026-11-14T20:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/DfvtR9EiS1K/",
+  "publicado": "2026-11-15T02:28:19+0000"
+ },
+ {
+  "video": "2026-11-21-leer-benchmarks.mp4",
+  "caption": "captions/2026-11-21-leer-benchmarks.txt",
+  "portada_ms": 1000,
+  "hora": "2026-11-15T22:30:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/DfyLaZ6ivd2/",
+  "publicado": "2026-11-16T01:30:19+0000"
+ },
+ {
+  "video": "2026-11-23-pregunta-a-tus-notas.mp4",
+  "caption": "captions/2026-11-23-pregunta-a-tus-notas.txt",
+  "portada_ms": 1000,
+  "hora": "2026-11-16T08:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/DfzNlkYitkT/",
+  "publicado": "2026-11-16T11:08:42+0000"
+ },
+ {
+  "video": "2026-11-25-batalla-3d.mp4",
+  "caption": "captions/2026-11-25-batalla-3d.txt",
+  "portada_ms": 3400,
+  "hora": "2026-11-16T12:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Dfz1fFame8D/",
+  "publicado": "2026-11-16T16:57:18+0000"
+ },
+ {
+  "video": "2026-11-28-que-es-la-terminal.mp4",
+  "caption": "captions/2026-11-28-que-es-la-terminal.txt",
+  "portada_ms": 1650,
+  "hora": "2026-11-16T18:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Df0cHASmNGJ/",
+  "publicado": "2026-11-16T22:34:40+0000"
+ },
+ {
+  "video": "2026-11-29-que-es-una-api.mp4",
+  "caption": "captions/2026-11-29-que-es-una-api.txt",
+  "portada_ms": 1100,
+  "hora": "2026-11-17T08:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Df1xp_UAXuJ/",
+  "publicado": "2026-11-17T11:01:59+0000"
+ },
+ {
+  "video": "2026-11-27-que-es-html.mp4",
+  "caption": "captions/2026-11-27-que-es-html.txt",
+  "portada_ms": 2600,
+  "hora": "2026-11-17T12:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Df2NM2hDw5P/",
+  "publicado": "2026-11-17T15:02:52+0000"
+ },
+ {
+  "video": "2026-11-26-tokens.mp4",
+  "caption": "captions/2026-11-26-tokens.txt",
+  "portada_ms": 1900,
+  "hora": "2026-11-17T15:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Df2hyAAD4mp/",
+  "publicado": "2026-11-17T18:02:30+0000"
+ },
+ {
+  "video": "2026-11-20-vacaciones-en-pizarra.mp4",
+  "caption": "captions/2026-11-20-vacaciones-en-pizarra.txt",
+  "portada_ms": 2000,
+  "hora": "2026-11-17T18:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Df22WmXiWaT/",
+  "publicado": "2026-11-17T21:02:16+0000"
+ },
+ {
+  "video": "2026-11-18-la-ia-alucina.mp4",
+  "caption": "captions/2026-11-18-la-ia-alucina.txt",
+  "portada_ms": 1200,
+  "hora": "2026-11-18T08:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Df4XGitAkqC/",
+  "publicado": "2026-11-18T11:08:04+0000"
+ },
+ {
+  "video": "2026-11-18-que-es-mcp.mp4",
+  "caption": "captions/2026-11-18-que-es-mcp.txt",
+  "portada_ms": 1000,
+  "hora": "2026-11-18T12:00:00-03:00",
+  "estado": "publicado",
+  "link": "https://www.instagram.com/reel/Df4yY1bDS3q/",
+  "publicado": "2026-11-18T15:06:27+0000"
+ },
+ {
+  "video": "2026-11-18-agente-v2.mp4",
+  "caption": "captions/2026-11-18-agente-v2.txt",
+  "portada_ms": 1200,
+  "hora": "2026-11-18T18:30:00-03:00",
+  "estado": "manual"
+ }
 ]
