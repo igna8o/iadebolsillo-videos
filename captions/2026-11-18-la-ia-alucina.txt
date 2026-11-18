@@ -1,0 +1,18 @@
+Este libro no existe. Lo inventó una IA. 📚
+
+En mayo de 2025, un diario de Chicago publicó una lista de lecturas para el verano hecha con IA: 10 de los 15 libros no existían. Los autores eran reales; los títulos, inventados.
+
+A eso le dicen "alucinar": la IA no busca en una biblioteca, arma la respuesta que suena más probable. Y te la dice igual de segura. Les pasa a todas, también a Claude.
+
+3 señales de que te está inventando:
+1️⃣ Datos muy exactos, sin ninguna fuente.
+2️⃣ Un libro, un link o una ley que no encontrás.
+3️⃣ Le preguntás de nuevo y te cambia la respuesta.
+
+Qué hacer: pedile la fuente y abrila vos. Y avisale que puede responder "no sé" (lo recomienda la propia Anthropic).
+
+Guardalo en el bolsillo 👖 y mandáselo a quien le cree todo a la IA.
+
+Fuentes: NBC News y 404 Media (mayo de 2025); guía "Reduce hallucinations" de Anthropic.
+
+#inteligenciaartificial #chatgpt #claude #alucinaciones #iaenespañol #tecnologia #tipsia #diccionariodebolsillo
