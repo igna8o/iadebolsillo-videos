@@ -124,5 +124,12 @@
     "estado": "publicado",
     "link": "https://www.instagram.com/reel/Df5dsJQj_nm/",
     "publicado": "2026-11-18T21:24:29+0000"
+  },
+  {
+    "video": "2026-11-18-buen-prompt.mp4",
+    "caption": "captions/2026-11-18-buen-prompt.txt",
+    "portada_ms": 2000,
+    "hora": "2026-11-18T18:45:00-03:00",
+    "estado": "manual"
   }
 ]

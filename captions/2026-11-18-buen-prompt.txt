@@ -1,0 +1,23 @@
+Mismo pedido, dos prompts. Mirá la diferencia. ✍️
+
+Le pedí a Claude una bio para Instagram de una pastelería.
+Con un prompt de una línea me dio una que sirve para cualquiera: "[Nombre]", "Envíos en [zona]"…
+Con uno de 4 partes me dio la suya: "Tortas sin TACC para cumples…".
+
+Las 4 partes:
+# Rol: quién querés que sea.
+# Contexto: lo que vos sabés y la IA no.
+# Tarea: qué querés, y cuántas.
+# Formato: cómo te lo entrega.
+
+Los # (numerales) son títulos: ordenan las partes para que no se mezclen. No son magia: lo que cambia la respuesta es lo que escribís abajo de cada uno.
+
+La prueba que da Anthropic: si un compañero no entendería tu pedido, la IA tampoco.
+
+No necesitás pagar nada: es cómo escribís el pedido.
+
+Guardalo en el bolsillo 👖 y mandáselo a quien le escribe a la IA como por WhatsApp.
+
+Fuente: guía oficial de prompts de Anthropic (platform.claude.com). Prueba real con Claude, 18/11/2026.
+
+#inteligenciaartificial #prompts #claude #chatgpt #iaenespañol #tipsia #emprendedores #productividad
