@@ -1,0 +1,19 @@
+Armar una app sin saber programar… y sin leer ni una línea de código 😎 Tiene nombre: vibe coding.
+
+Es pedirle a una IA lo que querés, con tus palabras, y aceptar lo que hace sin revisarlo. El término lo inventó Andrej Karpathy (uno de los fundadores de OpenAI) el 2 de febrero de 2025, y el diccionario Collins lo eligió palabra del año 2025.
+
+Probalo gratis: pedile a Claude "una app para sortear quién ceba el mate" y te la arma ahí mismo, en el chat (en Claude se llama Artifact).
+
+Pero ojo: si nadie lee el código, nadie ve los agujeros. En un estudio de Veracode (julio de 2025: 80 tareas, más de 100 modelos de IA), el código generado tuvo fallas de seguridad en el 45 % de los casos.
+
+La regla:
+✅ Para jugar, probar una idea o una app para vos: sí.
+❌ Con datos de clientes, pagos o contraseñas: que lo revise alguien que sabe.
+
+No subas datos sensibles (DNI, claves, datos de clientes) a una app que nadie revisó.
+
+Guardalo en el bolsillo 👖 y mandáselo al que dice "lo hice con vibe coding".
+
+Fuentes: Collins Dictionary (06/11/2025), Veracode GenAI Code Security Report (30/07/2025).
+
+#inteligenciaartificial #vibecoding #claude #programacion #iaenespañol #tecnologia #diccionariodebolsillo #apps #sinprogramar
