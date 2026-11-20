@@ -1,0 +1,17 @@
+¿Cuántas de estas 7 sabés explicar? 🤔 Contalas antes de leer.
+
+1️⃣ Prompt: lo que le escribís a la IA. Mejor pedido, mejor respuesta.
+2️⃣ Modelo: el "cerebro" que elegís. Unos son rápidos, otros piensan más.
+3️⃣ Token: la IA no lee palabras, lee pedacitos. Y tu límite de uso se gasta en pedacitos.
+4️⃣ Contexto: todo lo que la IA tiene en cuenta en esa charla. Si la charla es eterna, se llena: tema nuevo, chat nuevo.
+5️⃣ Alucinar: cuando inventa algo con total seguridad (un libro, un dato, una cita). Lo importante, chequealo.
+6️⃣ Skill: un manual que le das una vez y lo usa solo cada vez que hace falta.
+7️⃣ Agente: no te contesta, hace los pasos solo hasta terminar.
+
+¿Cuántas sabías? 👇
+
+Guardalo en el bolsillo 👖 y mandáselo al que te habla de IA y no le entendés nada.
+
+Fuente del consejo de "chat nuevo": centro de ayuda de Claude, límites de uso (support.claude.com).
+
+#inteligenciaartificial #claude #chatgpt #iaenespañol #diccionariodebolsillo #prompt #tecnologia #aprenderia #tips
