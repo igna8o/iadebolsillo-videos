@@ -1,0 +1,16 @@
+Claude ya puede usar tu compu 🖱️ Mueve el mouse, abre tus programas y hace la tarea mientras vos mirás.
+
+Dónde: app de escritorio de Claude (Mac y Windows) → Ajustes → Capacidades → "Enable computer use".
+Plan: Pro, Max y Ultra (no es gratis). En equipos de empresa (Team y Enterprise) llegó en beta esta semana.
+
+Ojo:
+• En algunas cuentas ya viene prendido. Igual te pide permiso app por app.
+• Mientras trabaja saca capturas de tu pantalla: cerrá lo que no quieras que vea.
+• No le des el banco, apps de salud ni trámites. No subas datos sensibles (DNI, claves, datos de clientes).
+• Es más lento que un conector y a veces necesita otro intento.
+
+Guardalo en el bolsillo 👖
+
+Fuente: centro de ayuda de Claude, "Let Claude use your computer in Cowork" (noviembre de 2026).
+
+#inteligenciaartificial #claude #claudeai #iaenespañol #novedadesia #productividad #trucosdeia #aprenderia
