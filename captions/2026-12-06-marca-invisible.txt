@@ -1,0 +1,13 @@
+¿Lo hizo una IA? 🔍 Cada vez más IAs le ponen una marca invisible a lo que crean.
+
+📷 En imágenes: Google y OpenAI esconden la marca en los píxeles (SynthID). Resiste más que los datos del archivo, incluso una captura. Se puede revisar: en Gemini, si la hizo una IA de Google, y en openai.com/verify, si la hizo OpenAI.
+
+✍️ En texto: la marca está en qué palabras elige la IA. Claude la está sumando a sus modelos nuevos, en todo el mundo. ChatGPT, por ahora solo en Europa. Todavía no hay una herramienta para que cualquiera la revise: solo organizaciones aprobadas.
+
+Ojo: no es una prueba. Si no aparece la marca, no quiere decir que lo hizo una persona. Y si reescribís todo el texto, se pierde.
+
+Guardalo en el bolsillo 👖
+
+Fuentes: Anthropic, OpenAI, Google DeepMind y el centro de ayuda de Gemini (noviembre de 2026).
+
+#inteligenciaartificial #claude #chatgpt #gemini #iaenespañol #aprenderia #deepfake #trucosdeia
