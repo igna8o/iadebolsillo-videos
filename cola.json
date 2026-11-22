@@ -178,5 +178,12 @@
     "estado": "publicado",
     "link": "https://www.instagram.com/reel/DgDKlRGDPao/",
     "publicado": "2026-11-22T15:49:50+0000"
+  },
+  {
+    "video": "2026-12-05-chat-eterno.mp4",
+    "caption": "captions/2026-12-05-chat-eterno.txt",
+    "portada_ms": 1200,
+    "hora": "2026-11-22T18:00:00-03:00",
+    "estado": "manual"
   }
 ]
