@@ -1,0 +1,16 @@
+¿Claude te contestó mal y le escribís "no, eso no"? ✋ Pará.
+
+Con cada mensaje nuevo, Claude vuelve a leer toda la charla, con la respuesta mala incluida. Y lo largo que es la charla cuenta para tu límite de uso.
+
+Mejor así:
+1. Pasá el mouse por tu mensaje (o tocalo) y tocá el lápiz ✏️
+2. Corregí el pedido ("Resumime este mail en 3 líneas")
+3. Guardá: Claude responde de nuevo y la respuesta mala queda en otra versión, fuera de la charla (con las flechitas ‹ 2/2 › la podés volver a ver).
+
+Funciona gratis. Ojo: en la versión nueva de Claude (la que junta el chat con Cowork, que está llegando de a poco a los planes pagos) todavía no se puede retomar un chat desde un mensaje anterior.
+
+Guardalo en el bolsillo 👖 y mandáselo al que le discute a Claude.
+
+Fuente: centro de ayuda de Claude, "Usage limit best practices" (noviembre de 2026).
+
+#inteligenciaartificial #claude #claudeai #iaenespañol #tips #productividad #trucosdeia #aprenderia
