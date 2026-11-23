@@ -1,0 +1,13 @@
+¿Claude resolvió el problema de matemática más famoso del mundo? 🧮
+
+La hipótesis de Riemann lleva 166 años sin resolver y tiene un premio de USD 1.000.000 (Instituto Clay). El 20/11, Levent Alpöge, matemático de Anthropic, anunció que encontró una prueba trabajando con Claude.
+
+✅ La prueba está escrita en Lean, un programa que revisa pruebas paso a paso: 17 millones de líneas. Matemáticos que la corrieron dicen que no tiene errores.
+❓ Pero todavía nadie la entiende: la explicación que generó la IA tiene más de 250.000 páginas y no se publicó.
+⏳ Todavía no es oficial: cuando salió la noticia, el Instituto Clay lo seguía listando como sin resolver. Entenderla puede llevar años.
+
+Guardalo en el bolsillo 👖
+
+Fuentes: Science (20/11/2026), CNN (21/11/2026) y Anthropic.
+
+#inteligenciaartificial #claude #matematica #ciencia #iaenespañol #aprenderia #noticiasia #anthropic
