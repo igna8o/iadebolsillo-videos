@@ -1,0 +1,14 @@
+¿Cómo hizo Claude para probar la hipótesis de Riemann? 🧮 (parte 2)
+
+1️⃣ Fallar mucho: en agosto, en su primer intento, Claude probó 650 ideas y ninguna funcionó. Trabajó con unos 60 "ayudantes" (copias de Claude en paralelo) que se revisaban entre ellos.
+2️⃣ Un humano que marca el rumbo: Levent Alpöge, matemático de Anthropic, propuso juntar dos ideas que andaban en una versión más chica del problema.
+3️⃣ Claude hizo la parte técnica: según la línea de tiempo de la nota, del 6 de octubre al 16 de noviembre. Alpöge cuenta que en la recta final Claude "voló".
+4️⃣ Todo escrito en Lean, un lenguaje en el que la computadora revisa cada paso: 17 millones de líneas. Una revisión independiente (Universidad de Waterloo) las compiló sin errores.
+
+Ojo: que la computadora la acepte no quiere decir que alguien la entienda. Eso puede llevar años, y todavía no es oficial.
+
+Guardalo en el bolsillo 👖
+
+Fuentes: Anthropic (10/08/2026), nota de Levent Alpöge (20/11/2026) y Michael Rubinstein, Universidad de Waterloo (21/11/2026).
+
+#inteligenciaartificial #claude #matematica #ciencia #iaenespañol #aprenderia #noticiasia #anthropic
