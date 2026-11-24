@@ -1,0 +1,16 @@
+Claude tiene 4 interruptores que casi nadie toca 👇
+
+1. Privacidad → Configuración → Privacidad → "Ayudar a mejorar nuestros modelos de IA". Apagado, tus chats no se usan para entrenar de acá en adelante (lo que ya se entrenó no se borra). Está en el plan gratis, Pro y Max.
+2. Instrucciones → Configuración → Tu Claude → Instrucciones. Le decís una vez cómo querés que te hable y vale para todos tus chats.
+3. Estilos → en el chat, el menú de estilos → creá uno con un texto tuyo. Escribe como vos.
+4. Esfuerzo → tocá el nombre del modelo, al lado de enviar. En bajo o medio, te rinde más el límite.
+
+La ayuda de Claude no aclara si Instrucciones, Estilos y Esfuerzo están en el plan gratis: fijate si te aparecen en tu cuenta.
+
+Para el estilo, usá un texto sin datos sensibles (DNI, claves, datos de clientes).
+
+Guardalo en el bolsillo 👖
+
+Fuentes: centro de ayuda y centro de privacidad de Claude (noviembre de 2026).
+
+#inteligenciaartificial #claude #claudeai #iaenespañol #tips #trucosdeia #aprenderia #privacidad
