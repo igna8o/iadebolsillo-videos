@@ -1,0 +1,19 @@
+5 apps que no bajé de ningún lado: se las pedí a Claude 👇
+
+1. Mis hábitos: "Haceme un seguidor de hábitos con racha de días".
+2. Gastos: "Haceme una app para anotar mis gastos y verlos en una torta por rubro".
+3. Fichas: "Haceme fichas para estudiar [tema], que se den vuelta".
+4. Pausas: "Haceme una app que me avise cada 50 minutos que me levante".
+5. Mi compu: "Haceme un medidor del procesador y la memoria en la barra de arriba".
+
+Después, en la app de escritorio de Claude: menú del título → "Instalar como aplicación" → "Instalar".
+
+Está en beta, en todos los planes (también el gratis), solo en la app de Claude para Mac y Windows. Lo que hace cada app cuenta para tu límite de uso.
+
+Si una app te pide "acceso total a esta computadora", decí que no salvo que sepas bien qué hace. En la de gastos, no cargues datos de tu banco ni claves.
+
+Guardalo en el bolsillo 👖
+
+Fuente: centro de ayuda de Claude y nota de Anthropic sobre las apps (noviembre de 2026).
+
+#inteligenciaartificial #claude #claudeai #iaenespañol #tips #trucosdeia #aprenderia #apps
