@@ -1,0 +1,16 @@
+Esta app no la bajé de ningún lado: la hizo Claude 👇
+
+1. Pedile a Claude la app que necesitás (ej.: "Haceme un reloj para estudiar: 25 minutos y un descanso").
+2. Abrí lo que armó en la app de escritorio de Claude.
+3. Menú del título → "Instalar como aplicación" → "Instalar".
+4. Queda en tu compu con su ícono: en Mac, en la carpeta "Claude Apps"; en Windows, en el menú Inicio.
+
+Está en beta, en todos los planes (también el gratis), solo en la app de Claude para Mac y Windows. No anda en el celular ni en la web, y para abrirla tenés que estar conectado. Lo que hace la app cuenta para tu límite de uso.
+
+Ojo: si una app te pide "acceso total a esta computadora", decí que no, salvo que sepas bien qué hace.
+
+Guardalo en el bolsillo 👖
+
+Fuente: centro de ayuda de Claude, "Instalar un artefacto como una aplicación" (noviembre de 2026).
+
+#inteligenciaartificial #claude #claudeai #iaenespañol #tips #trucosdeia #aprenderia #apps
