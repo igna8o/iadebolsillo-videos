@@ -1,0 +1,17 @@
+¿Te pasaron una app hecha con Claude? Antes de instalarla, mirá esto 👇
+
+1. Nadie la revisó: Anthropic no revisa las apps antes de que las instales.
+2. Si es de otra persona, Claude te avisa cuando te pide permisos.
+3. Cada permiso lo decidís vos: "Permitir" o "No permitir" (avisos, atajos de teclado, ventanas encima de otras…).
+4. El "acceso completo a esta computadora" en general ni se ofrece en apps de otros. Si alguna vez lo ves, pensalo dos veces: puede abrir programas y tocar tus archivos.
+5. Si la app se actualiza, Claude te vuelve a preguntar.
+
+Para revisar o sacar permisos: en Claude, Archivo → Aplicaciones → la app → Permisos.
+
+Tratá una app que te pasan como cualquier descarga de un desconocido.
+
+Guardalo en el bolsillo 👖
+
+Fuente: centro de ayuda de Claude, "Instalar un artefacto como una aplicación" (noviembre de 2026).
+
+#inteligenciaartificial #claude #claudeai #iaenespañol #seguridad #tips #aprenderia #apps
