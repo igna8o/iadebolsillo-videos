@@ -1,11 +1,9 @@
 Misma IA, misma tarea: 53 % contra 100 %. 📂
 
-Vercel probó a una IA programando con algo que no conocía. Con una skill instalada, más de la mitad de las veces ni la
-abrió (53 %; con la orden explícita de usarla, 79 %). Con un mapa arriba de todo que dice qué hay en cada carpeta: 100 %.
+Vercel probó a una IA programando con algo que no conocía. Con una skill instalada aprobó el 53 %: más de la mitad de las veces ni la abrió (con la orden explícita de usarla, 79 %). Con un mapa arriba de todo que dice qué hay en cada carpeta: 100 %.
 
 Eso es el "file structure": ordenar tus archivos con un mapa para que la IA sepa dónde buscar.
-¿Mata a las skills? No: una skill ya es una carpeta. La diferencia es que el mapa se lee siempre y la skill solo cuando
-la IA se acuerda.
+¿Mata a las skills? No: una skill ya es una carpeta. La diferencia es que el mapa se lee siempre y la skill solo cuando la IA se acuerda.
 
 Fue una sola prueba, de programación (Vercel, enero 2026).
 
