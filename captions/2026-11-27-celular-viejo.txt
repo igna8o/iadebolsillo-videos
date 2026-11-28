@@ -1,0 +1,22 @@
+¿Te ofrecieron moneditas por tu celular viejo? No lo vendas 👇
+
+Con PhoneBox, un Android viejo se vuelve un panel táctil para tu compu:
+🎛️ botones para silenciar el micrófono, sacar capturas o abrir programas
+🎵 tu música: pausa, siguiente y volumen
+🧊 ¿un programa se colgó? lo cerrás con un toque
+✅ los permisos de Claude Code, desde el celu
+📊 cuánto te queda de Claude (necesita Claude Code en la compu)
+🌙 de noche, reloj y clima
+…y más de 130 widgets.
+
+Es gratis, de código abierto y está en GitHub: github.com/ersinkoc/phonebox (tiene instrucciones en español). Celu con Android 5 o más; compu con Windows, Mac o Linux.
+
+¿No sabés instalarlo? Abrí Claude Code, pegale el link y pedile "Instalame PhoneBox". Antes de correr cada cosa te pide permiso: leé qué va a hacer. Claude Code viene con los planes pagos (Pro o más).
+
+Ojo: la app no está en Play Store, se baja del GitHub. En Windows te puede saltar un aviso porque el programa todavía no está firmado. Conectá el celu solo a tu propia compu.
+
+Guardalo en el bolsillo 👖
+
+Las pantallas del video son una recreación. Fuente: github.com/ersinkoc/phonebox y claude.com/pricing (noviembre de 2026).
+
+#inteligenciaartificial #claude #claudeai #iaenespañol #github #android #tecnologia #productividad #reciclaje
